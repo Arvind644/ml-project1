@@ -9,9 +9,9 @@ In this project, we are predicting quality of water as it is suitable to drink o
 
 ## file structure
 
-notebook.ipynb - main jupyter noetbook
+notebook.ipynb - main jupyter noetbook <br />
 model.py - contain extract and main model from jupyter noetbook.  <br />
-predict.py - it perdict th eresult. <br /> 
+predict.py - it perdict the result. <br /> 
 predict-test.py - contain sample data <br /> 
 model_C.bin - it saveds the model. <br />
 Dockerfile - to riun the application in docker image
