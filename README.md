@@ -1,6 +1,6 @@
 # water quality prediction project
 
-We are making a water qualti prediction model which tell the quality of water
+We are making a water quality prediction model which tell the quality of water
 
 ## Problem description
 
